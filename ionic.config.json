@@ -1,5 +1,7 @@
 {
   "name": "curriculum",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
